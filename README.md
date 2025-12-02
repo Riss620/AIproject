@@ -33,7 +33,7 @@ An advanced, modern and visually polished Streamlit application that helps trave
 
 🛠 Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/ai-language-translator.git
+git clone https://https://github.com/Riss620/AIproject
 cd ai-language-translator
 
 2️⃣ Create a virtual environment
